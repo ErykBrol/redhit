@@ -66,5 +66,7 @@ The app is intended to provide a clean and seamless interface for users to not o
 ## Authors
 
 **Eryk Brol** - (https://github.com/ErykBrol)
+
 **Yoson Chiu** - (https://github.com/yo-ch)
+
 **Vincent Li** - (https://github.com/vincentli1997)
