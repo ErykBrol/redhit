@@ -15,6 +15,8 @@ cd ../client && npm run build && cd ../server && node server.js
 visit localhost:5000
 ```
 
+Make sure to fill in the NewsAPI key at ``client/.env`` and the MongoURI in ``server/server.js``. 
+
 **What is Redhit?**
 
 Redhit is an idea inspired by the popular website “Reddit”. Instead of displaying user created and voted posts, Redhit pulls popular news articles from across the internet via the News API (https://newsapi.org/). It provides an organized and clean way to preview what articles have to offer through summaries, the ability to subscribe to different topics, save articles they have viewed and more. With Redhit you always have the most relevant articles at your fingertips.
