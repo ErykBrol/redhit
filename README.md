@@ -62,3 +62,9 @@ Users are able to search through articles with the search box feature which will
 End users of our app will be people who like to be kept in the loop and have quick and easy access to all sorts of news. Redhit makes it easy to go from keeping up with politics to finding out about the latest news about your hometown sports teams. 
 
 The app is intended to provide a clean and seamless interface for users to not only get their news but be served a custom experience made just for them. This is made possible by the authentication aspect which for the end user takes one of 2 forms: connecting via Facebook or signing up with an email and password. 
+
+## Authors
+
+**Eryk Brol** - (https://github.com/ErykBrol)
+**Yoson Chiu** - (https://github.com/yo-ch)
+**Vincent Li** - (https://github.com/vincentli1997)
