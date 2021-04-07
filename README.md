@@ -1,6 +1,8 @@
 # Redhit - News at your fingertips
 To access the webpage, visit https://redhit.herokuapp.com
 
+:warning: Unfortunately the news api used no longer allows access from outside of a localhost environment :warning:
+
 To access the development version of the webpage, in the server folder:
 
 ```
