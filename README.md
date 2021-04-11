@@ -1,4 +1,7 @@
 # Redhit - News at your fingertips
+
+![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_feed.png "Redhit feed")
+
 To access the webpage, visit https://redhit.herokuapp.com
 
 :warning: Unfortunately the news api used no longer allows access from outside of a localhost environment :warning:
@@ -23,10 +26,6 @@ Make sure to fill in the NewsAPI key at ``client/.env`` and the MongoURI in ``se
 
 Redhit is an idea inspired by the popular website “Reddit”. Instead of displaying user created and voted posts, Redhit pulls popular news articles from across the internet via the News API (https://newsapi.org/). It provides an organized and clean way to preview what articles have to offer through summaries, the ability to subscribe to different topics, save articles they have viewed and more. With Redhit you always have the most relevant articles at your fingertips.
 
-
-
-
-
 ## Features
 
 ### Country and Popular Topic Filter
@@ -39,15 +38,21 @@ There is also a list of popular topics beneath the country filter which allow us
 
 Clicking on an article either in your feed, or under your saved articles in your profile page will reveal a short summary of the article. These summaries allow for users to determine at a glance if they’re interested in reading a particular article before clicking the link to be taken to the actual article.
 
+![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_summary.png "Redhit article summary feature")
+
 ### Topic Subscriptions
 
 Redhit allows users to subscribe to search keywords which will then filter articles that they view. This allows users to mainly view articles that they would be interested in, instead of getting everything that's currently popular. 
 
 ### Saved Articles
 
+![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_profile.png "Redhit user profile with saved articles")
+
 Users are able to save articles so that they can come back to them later. Saved articles are displayed on their profile page under the saved header, with the same features that the article view provides for convenience.
 
 ### Social Login
+
+![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_login.png "Redhit login page")
 
 Redhit allows users to login using their Facebook accounts to make the sign-up process quick and easy as a majority of users have Facebook. For users who do not or prefer to create a seperate account for Redhit, we also provide that option. 
 
