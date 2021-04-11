@@ -46,13 +46,17 @@ Redhit allows users to subscribe to search keywords which will then filter artic
 
 ### Saved Articles
 
-![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_profile.png "Redhit user profile with saved articles")
+<p align="center">
+  <img src="https://github.com/ErykBrol/redhit/blob/master/res/redhit_profile.png" alt="Redhit user profile with saved articles" height="400"/>
+</p>
 
 Users are able to save articles so that they can come back to them later. Saved articles are displayed on their profile page under the saved header, with the same features that the article view provides for convenience.
 
 ### Social Login
 
-![alt text](https://github.com/ErykBrol/redhit/blob/master/res/redhit_login.png "Redhit login page")
+<p align="center">
+  <img src="https://github.com/ErykBrol/redhit/blob/master/res/redhit_login.png" alt="Redhit login pag" height="400"/>
+</p>
 
 Redhit allows users to login using their Facebook accounts to make the sign-up process quick and easy as a majority of users have Facebook. For users who do not or prefer to create a seperate account for Redhit, we also provide that option. 
 
